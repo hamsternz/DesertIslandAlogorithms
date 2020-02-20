@@ -9,7 +9,7 @@ Converges very slowly, so to greatly improve accuracy, add or subtract half of t
 
 ## calculating 'e'
 
-e = 1/(1!) + 1/(2!) + 1/(3!)...
+e = 1 + 1/(1!) + 1/(2!) + 1/(3!)...
 
 ## Square roots
 
